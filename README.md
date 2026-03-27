@@ -7,7 +7,7 @@
 - Persistencia en archivo JSON
 
   ## Tecnologías - Python
-  ## Cómo ejecutar ```bash python TO-DO Proyecto.json.py
+  ## Cómo ejecutar ```bash python todo.py
   
 ## Vista previa
 
